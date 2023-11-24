@@ -1,0 +1,47 @@
+{
+    "users": [
+      { 
+        "id": 1,
+        "birthday": "",
+        "cedula": 30039812,
+        "edad": 18,
+        "email": "jose@gmail.com",
+        "firstName": "Jose",
+        "lastName": "Perez",
+        "gender": "Masculino",
+        "imageProfile": "",
+        "lat": 0.0,
+        "lgn": 0.0,
+        "listActivities": [],
+        "password": "jose111003",
+        "phone": 1111111111,
+        "rol": "Estudiante",
+        "listOfMaterias": [],
+        "created": ""
+     }
+    ],
+
+    "class": [
+      { 
+        "id": 1,
+       "listStudent": [],
+        "idTeacher": 1,
+        "name": ""
+     }
+    ],
+
+    "activities": [
+        {
+            "calification": 0,
+            "calificationRevision": 0,
+            "date": "",
+            "description": "",
+            "id": 1,
+            "idClass": 1,
+            "imageRevision": "",
+            "isCompleted": false,
+            "messageStudent": "",
+            "title": ""
+        }
+    ]
+}
